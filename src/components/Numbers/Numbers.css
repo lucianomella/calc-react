@@ -1,0 +1,16 @@
+.numbers {
+	width: 240px;
+	float: left;
+}
+
+.numbers button {
+	display: block;
+	position: relative;
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+
+.numbers button:last-child {
+	width: 100%;
+}
