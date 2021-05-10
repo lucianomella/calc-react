@@ -1,0 +1,17 @@
+
+.functions {
+  float: left;
+  width: 240px;
+	font-size: 40px;
+}
+
+.functions button{
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	color: #fc7575
+}
+
+.functions button:hover{
+	color: #ffffff;
+}
